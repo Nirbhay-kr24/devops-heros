@@ -1,0 +1,1 @@
+The script keeps asking for a number, stops when you enter the input `q`, it shows an error for wrong input, and prints the numbe
