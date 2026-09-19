@@ -8,7 +8,15 @@ This assignment introduces Kubernetes Ingress and explains how external HTTP/HTT
 
 - **Ingress Controller**: The actual software application, such as NGINX, HAProxy, or Traefik, that runs inside the cluster, reads the Ingress rules, and performs the traffic routing. Without an Ingress Controller, an Ingress resource does not perform the routing itself.
 
----
+ **Simple analogy**
+
+Think of a building:
+
+Ingress = rules/instructions saying which visitor should go to which room. 
+
+Ingress Controller = receptionist/security guard who actually receives visitors and sends them to the correct room.
+
+
 
 ## 2. Difference between Path-based and Host-based Routing
 
