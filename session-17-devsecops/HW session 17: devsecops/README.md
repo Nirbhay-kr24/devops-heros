@@ -23,7 +23,7 @@ The GitHub Actions workflow performs the following stages:
 
 
 
-### Test API manual Test
+### API manual Test
 
 <img width="1773" height="550" alt="image" src="https://github.com/user-attachments/assets/b0b83f7b-8869-4e65-98df-a38e2c35d787" />
 
