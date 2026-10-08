@@ -18,7 +18,10 @@ The GitHub Actions workflow performs the following stages:
 
 <img width="1766" height="756" alt="image" src="https://github.com/user-attachments/assets/53868c78-ee35-4498-9ba5-b762b61098eb" />
 
-<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/7e281659-1da6-4e12-a6ce-1659d8a48a68" />
+<img width="1907" height="927" alt="image" src="https://github.com/user-attachments/assets/d190ad3c-2ea1-4002-8d09-15b8c816f081" />
+
+
+
 
 ### Test API manual Test
 
