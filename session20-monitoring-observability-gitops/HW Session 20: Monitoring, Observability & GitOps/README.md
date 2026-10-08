@@ -94,11 +94,13 @@ Application Runs in Desired State
 
 `Prometheus` is used to collect and query metrics from the Kubernetes environment and monitored applications.
 
-<img width="1914" height="928" alt="image" src="https://github.com/user-attachments/assets/fc15a9da-7a4d-44b9-b75c-d43e57872a97" />
+<img width="1910" height="925" alt="image" src="https://github.com/user-attachments/assets/d07784c2-68af-46a7-87b8-8e7182ff164b" />
+
 
 ### Grafana
 
 `Grafana` is used to visualize collected metrics through dashboards. It provides an easier way to monitor CPU usage, memory utilization, application performance, and other system metrics.
 
-<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/e859a10f-d319-440d-b5e3-5ce5bb8415a2" />
+<img width="1916" height="925" alt="image" src="https://github.com/user-attachments/assets/6b8f889a-ef41-412e-bdde-37b990049e60" />
+
 
